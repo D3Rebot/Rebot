@@ -28,3 +28,8 @@ Show me length range for last month
 
 How many times did (.*) call (.*) at (.*)$/
 How many times did Allen Test call 13345214412 at last month
+
+
+# Start Hubot
+
+HUBOT_GLIP_APP_KEY={appkey} HUBOT_GLIP_APP_SECRET={secret} HUBOT_GLIP_USERNAME={username} HUBOT_GLIP_PASSWORD={psd} HUBOT_GLIP_SERVER={glip server} ./bin/hubot -a glip -n Rebot
